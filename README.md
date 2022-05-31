@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zefirus78
+- 👋 Hi, I’m Nick
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
